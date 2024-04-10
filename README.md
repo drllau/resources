@@ -1,6 +1,7 @@
 ### Communities
 - [BlockScience](https://block.science/) - 🖥️ BlockScience ® is an engineering, R&D, and analytics firm specializing in complex systems. 
 - [Token Engineering](tokens.engineering) - 🖥️ A community pushing forward the field of token engineering in theory and practice.
+- [LexDAO](https://lexdao.org/) - A guild of legal engineers bridging wet-ink and firm code.
 - [Commons Stack](https://commonsstack.org/) - 🖥️ A design and engineering group creating systems that incentivize the creation and maintenance of public goods.
 - [Grassroots Economics](https://www.grassrootseconomics.org/) - 🌱 Creating sustainable community currentices.
 
